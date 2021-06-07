@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CourseWork</string>
+    <string name="no_alarm_text">Click add to add an alarm</string>
+    <string name="spotify_login">Spotify</string>
+    <string name="add_button">Add</string>
+    <string name="alarm_title">Alarm</string>
+    <string name="set_time">Set time</string>
+    <string name="add_alarm_new_alarm">Add Alarm Details</string>
+    <string name="add_alarm_edit_alarm">Edit Alarm Details</string>
+    <string name="save_button">Save Alarm</string>
+    <string name="delete_button">Delete Alarm</string>
+    <string name="insert_alarm_success">Alarm saved</string>
+    <string name="insert_alarm_failed">Error with saving alarm</string>
+    <string name="update_alarm_failure">Error with updating alarm</string>
+    <string name="update_alarm_success">Alarm updated</string>
+    <string name="delete">Delete</string>
+    <string name="delete_dialog">Delete this Alarm</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_failure">Failed to delete</string>
+    <string name="delete_success">Alarm deleted</string>
+    <string name="click_add_to_set_alarm">CLICK ADD TO SET ALARM</string>
+</resources>
